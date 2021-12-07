@@ -222,4 +222,3 @@ Python (Programming Language) • SQL • Data Visualization • Project Managem
 Management • Software Development • Microsoft Power BI • Selenium • Microsoft SQL Server •
 FastAPI
 ```
-
