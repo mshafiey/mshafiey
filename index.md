@@ -33,12 +33,6 @@ environment and I will undoubtedly grow myself and your company with the new ide
 
 Bullet lists nested within numbered list:
 
-  1. fruits
-     * apple
-     * banana
-  2. vegetables
-     - carrot
-     - broccoli
 
 ## Experience
 
