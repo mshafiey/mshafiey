@@ -31,6 +31,15 @@ Basically, I know no boundaries for new learning and experience, and I have no w
 and knowledge being challenged, and I am fully prepared for that. I am ready to start working in any new
 environment and I will undoubtedly grow myself and your company with the new ideas I come up with.
 
+Bullet lists nested within numbered list:
+
+  1. fruits
+     * apple
+     * banana
+  2. vegetables
+     - carrot
+     - broccoli
+
 ## Experience
 
 ### Python Developer
