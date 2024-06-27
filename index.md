@@ -50,8 +50,7 @@ Led sprint planning meetings and divided tasks between a 5-person project team.
 Automated and optimized collecting data using SQL, reaching over a 35% system’s response time
 boost.
 Manage scrum-based task
-Designing a database for collecting information from social networks and sites with more than 100
-pages and 150 hashtags
+Designing a database for collecting information 
 ```
 ### Head Of Information Technology Department
 
