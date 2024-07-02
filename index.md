@@ -1,55 +1,43 @@
 # Mohsen Shafiey Kasrineh
 
-Nicosia District, Cyprus
+Berlin Metropolitan Area, Germany
 
 ```
 mohsenshafiey@gmail.com +
 linkedin.com/in/mohsenshafiey
 ```
 ## Summary
+A passionate software developer, DevOps expert, systems analyst, and software architect, I began programming in 2000. I've relentlessly expanded my knowledge, consistently staying at the cutting edge of technology.
 
-I am a software developer, DevOps, systems analyst and architect system designer. I started programming at the
-beginning of 2000, and all this time, I was constantly learning and acquiring knowledge. I've always looked forward
-and moved on the edge of technology.
-
-Now I have been using Python for several years, I have developed my systems with Python. I am an expert in
-"Microservice" architecture. For enterprise systems, I use Python (FastAPI as Web Frameworks, PostgreSQL,
-SQL Server as Relational databases, NoSQL like Redis ) in Microservices structure.
-
-I worked and learned in big teams as a developer, then I used that experience and formed my own team and
-developed products. Given the wide range of knowledge I have from the computer world, I have the best ability to
-make a team for startups and select the right staff for them and then provide solutions for designing complex and
-large enterprise software. I helped several companies to start their work to organize their team and find the right
-path.
-
-I have programming in several languages such as Python, C, C#, SQL, Dart (Flutter for ), but Python is my
-speciality. I also spent some time for personal work learning the Forex and crypto financial markets, and
-developed tools for Forex and cryptocurrency market analysis I have developed using Mql5 (MetaTrader
-language ) and Python.
-
-Basically, I know no boundaries for new learning and experience, and I have no worries about my experiences
-and knowledge being challenged, and I am fully prepared for that. I am ready to start working in any new
-environment and I will undoubtedly grow myself and your company with the new ideas I come up with.
+With years of software development experience, I've crafted software systems and mastered microservice architecture. For enterprise systems, I use Python with FastAPI, PostgreSQL, SQL Server, MySQL, SQLite, .NET, C#, and NoSQL databases. I have masterfully designed and implemented resilient multi-region Kubernetes clusters using Rancher as the cluster manager, OpenEBS/cStor for multi-cluster data stores, and Cloudflare for advanced load balancing and security. I embrace limitless learning and thrive on challenges. Ready for any environment, I will undoubtedly innovate and drive growth for your company.
 
 ## Experience
 
-### Python Developer
+### Senior Backend  engineer
 
-### My Own Company
+### Stratosphere Games GmbH
 
-```
-Feb 2021 - Oct 2021 (9 months)
-Handled programming tasks for and maintained 2 web applications with a high success rate (97%) in
-product update deployment.
-Developed a marketing lead PostgreSQL database, collecting, categorizing, and filtering leads from
-various stakeholders, i.e., www, social media channels, or newsletters.
-Led sprint planning meetings and divided tasks between a 5-person project team.
-Automated and optimized collecting data using SQL, reaching over a 35% system’s response time
-boost.
-Manage scrum-based task
-Designing a database for collecting information from social networks and sites with more than 100
-pages and 150 hashtags
-```
+Senior Backend  engineer
+Stratosphere Games GmbH · Full-timeStratosphere Games GmbH · Full-time
+Jan 2023 - Present · 
+Berlin, Berlin, GermanyBerlin, Berlin, Germany
+Game backend development / Game master tools design and developmentGame backend development / Game master tools design and development
+ASP.NET Core, Backend and +12 skills
+
+### Head of Backend developmentHead of Backend development
+### Aista · Full-timeAista · Full-time
+
+Apr 2022 - Dec 2022 · 9 mosApr 2022 to Dec 2022 · 9 mos
+CyprusCyprus
+ helped me get this jobLinkedIn helped me get this job
+Private cloud infrastructure design with Kubernetes / k8s / Rancher
+Ansible Automation/bash scripting
+Git/CI/CD
+MySQL / Microsoft SQL server / Postgres SQL integrated with private cloud infrastructure
+Kubernetes distributed storage system openEBS/cStor
+C#/HyperlambdaPrivate cloud infrastructure design with Kubernetes / k8s / Rancher Ansible Automation/bash scripting Git/CI/CD MySQL / Microsoft SQL server / Postgres SQL integrated with private cloud infrastructure Kubernetes distributed storage system openEBS/cStor C#/Hyperlambda…see more
+Leadership, Linux and +18 skills
+
 ### Head Of Information Technology Department
 
 
